@@ -1,0 +1,22 @@
+{
+    "recommendations": [
+
+        // Editor's sugar
+        "psioniq.psi-header",
+        "vscode-icons-team.vscode-icons",
+        "stackbreak.comment-divider",
+        "earshinov.simple-alignment",
+
+        // Utilities
+        "tomoki1207.pdf",
+        "mads-hartmann.bash-ide-vscode",
+        "eamodio.gitlens",
+
+        // Documentation
+        "lextudio.restructuredtext",
+        "trond-snekvik.simple-rst",
+        "james-yu.latex-workshop",
+        "valentjn.vscode-ltex",
+            
+    ]
+}

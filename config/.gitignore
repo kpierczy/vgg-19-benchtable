@@ -1,0 +1,5 @@
+# Kaggle API config file
+kaggle/kaggle.json
+
+# Virtual environment executables
+*/venv

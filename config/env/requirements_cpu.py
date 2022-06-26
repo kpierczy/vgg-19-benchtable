@@ -1,0 +1,2 @@
+# CPU tensorflow version
+tensorflow

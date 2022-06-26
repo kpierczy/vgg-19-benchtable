@@ -1,0 +1,3 @@
+[submodule "src/visualization/nets/plot-neural-net"]
+	path = src/visualization/nets/plot-neural-net
+	url = https://github.com/HarisIqbal88/PlotNeuralNet
